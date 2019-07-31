@@ -1,0 +1,11 @@
+{
+  "name": "helper-function-library",
+  "version": "1.0.0",
+  "description": "This project simply serves as a library where I can store any useful helper functions I have created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Shirey",
+  "license": "MIT"
+}
